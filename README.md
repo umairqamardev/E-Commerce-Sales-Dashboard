@@ -17,3 +17,5 @@ Tools Used
 Power BI Desktop
 Power Query for data transformation
 DAX for calculated measures and KPIs
+
+<img width="1029" alt="Screenshot 2025-04-20 at 1 58 55 PM" src="https://github.com/user-attachments/assets/3a4a3ca2-c998-49c2-8673-47cc18d3c37e" />
